@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shani9131/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
