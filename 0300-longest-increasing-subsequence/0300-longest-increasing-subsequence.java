@@ -2,7 +2,6 @@ class Solution {
     int n;
     Integer dp[][];
     
-
     public int solve(int[] nums, int i, int p){
         if(i>=n){
             return 0;
@@ -19,7 +18,6 @@ class Solution {
             dp[i][p]=Math.max(take, skip);
         }
         return Math.max(take, skip);
-        
 
     }
     public int lengthOfLIS(int[] nums) {
