@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shani9131/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0704-binary-search](https://github.com/shani9131/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [1288-remove-covered-intervals](https://github.com/shani9131/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shani9131/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shani9131/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/shani9131/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shani9131/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/shani9131/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
