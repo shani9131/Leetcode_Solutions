@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shani9131/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shani9131/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/shani9131/Leetcode_Solutions/tree/master/0062-unique-paths) |
 ## Combinatorics
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/shani9131/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shani9131/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shani9131/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
