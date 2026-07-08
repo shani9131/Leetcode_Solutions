@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shani9131/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shani9131/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shani9131/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shani9131/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/shani9131/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shani9131/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shani9131/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shani9131/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
