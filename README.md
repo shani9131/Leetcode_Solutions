@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shani9131/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shani9131/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shani9131/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shani9131/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shani9131/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/shani9131/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shani9131/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shani9131/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/shani9131/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 ## String
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shani9131/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shani9131/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/shani9131/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shani9131/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shani9131/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Combinatorics
 |  |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shani9131/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shani9131/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
