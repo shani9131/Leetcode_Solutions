@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shani9131/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shani9131/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0134-gas-station](https://github.com/shani9131/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shani9131/Leetcode_Solutions/tree/master/0135-candy) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shani9131/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shani9131/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shani9131/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shani9131/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shani9131/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
