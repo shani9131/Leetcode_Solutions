@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shani9131/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/shani9131/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/shani9131/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shani9131/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shani9131/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shani9131/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/shani9131/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shani9131/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/shani9131/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/shani9131/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shani9131/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shani9131/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shani9131/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shani9131/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shani9131/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/shani9131/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shani9131/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shani9131/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
