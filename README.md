@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shani9131/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/shani9131/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shani9131/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/shani9131/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 ## String
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shani9131/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shani9131/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shani9131/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shani9131/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shani9131/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shani9131/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/shani9131/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shani9131/Leetcode_Solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/shani9131/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shani9131/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
