@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shani9131/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shani9131/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/shani9131/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/shani9131/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shani9131/Leetcode_Solutions/tree/master/0135-candy) |
 | [0300-longest-increasing-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shani9131/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shani9131/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0300-longest-increasing-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shani9131/Leetcode_Solutions/tree/master/0322-coin-change) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shani9131/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/shani9131/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shani9131/Leetcode_Solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/shani9131/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
