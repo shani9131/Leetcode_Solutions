@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shani9131/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/shani9131/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shani9131/Leetcode_Solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/shani9131/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shani9131/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/shani9131/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shani9131/Leetcode_Solutions/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/shani9131/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shani9131/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shani9131/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
