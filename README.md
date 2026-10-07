@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shani9131/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/shani9131/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/shani9131/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/shani9131/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shani9131/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/shani9131/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/shani9131/Leetcode_Solutions/tree/master/0134-gas-station) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shani9131/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/shani9131/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shani9131/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shani9131/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shani9131/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shani9131/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shani9131/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 ## Enumeration
 |  |
 | ------- |
