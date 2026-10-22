@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shani9131/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shani9131/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/shani9131/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/shani9131/Leetcode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
