@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/shani9131/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shani9131/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shani9131/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shani9131/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shani9131/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shani9131/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shani9131/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shani9131/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shani9131/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shani9131/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
