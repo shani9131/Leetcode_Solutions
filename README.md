@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shani9131/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shani9131/Leetcode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shani9131/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shani9131/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shani9131/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shani9131/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shani9131/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shani9131/Leetcode_Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shani9131/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shani9131/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shani9131/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shani9131/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/shani9131/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shani9131/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/shani9131/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shani9131/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/shani9131/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shani9131/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shani9131/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shani9131/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shani9131/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shani9131/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shani9131/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shani9131/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shani9131/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shani9131/Leetcode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shani9131/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shani9131/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shani9131/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shani9131/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
